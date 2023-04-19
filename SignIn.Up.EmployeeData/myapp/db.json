@@ -1,0 +1,100 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "Swaroop",
+      "lastName": "Naidu",
+      "email": "swaroop@gmail.com",
+      "Mobile": "983626527",
+      "salary": "5,000"
+    },
+    {
+      "id": 3,
+      "firstName": "Madhan",
+      "lastName": "Mohan",
+      "email": "Madhan@gmail.com",
+      "Mobile": "792736289",
+      "salary": "17,000"
+    },
+    {
+      "id": 4,
+      "firstName": "Rahul",
+      "lastName": "Rishi",
+      "email": "rahul@gmail.com",
+      "Mobile": "723945973",
+      "salary": "4,000"
+    },
+    {
+      "id": 6,
+      "firstName": "Nandhan",
+      "lastName": "Kumar",
+      "email": "nandhan@gmail.com",
+      "Mobile": "7974639203",
+      "salary": "3,500"
+    },
+    {
+      "id": 7,
+      "firstName": "Vidhya ",
+      "lastName": "Mathala",
+      "email": "vidhya@gmail.com",
+      "Mobile": "982657735",
+      "salary": "7,300"
+    },
+    {
+      "id": 8,
+      "firstName": "Karan",
+      "lastName": "Simha",
+      "email": "karan@gmail.com",
+      "Mobile": "654268299",
+      "salary": "6,850"
+    },
+    {
+      "id": 9,
+      "firstName": "Ravi",
+      "lastName": "Prakash",
+      "email": "ravi@gmail.com",
+      "Mobile": "78653647",
+      "salary": "17,000"
+    }
+  ],
+  "comments": [
+    {
+      "fullname": "Raj Kiran",
+      "email": "raj@gmail.com",
+      "password": "raj123",
+      "mobile": 87656789,
+      "id": 2
+    },
+    {
+      "fullname": "Rahul Rishi",
+      "email": "Rahul@gmail.com",
+      "password": "Rahul123",
+      "mobile": 789654786,
+      "id": 3
+    },
+    {
+      "fullname": "Sri Ram",
+      "email": "sri@gmail.com",
+      "password": "sri123",
+      "mobile": 987678987,
+      "id": 4
+    },
+    {
+      "fullname": "Swaroop",
+      "email": "swaroop@gmail.com",
+      "password": "swaroop123",
+      "mobile": 982729872,
+      "id": 5
+    },
+    {
+      "fullname": "Venky",
+      "email": "venky@gmail.com",
+      "password": "venky123",
+      "mobile": 762839302,
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
